@@ -1,0 +1,25 @@
+{
+  "ads": {
+   
+
+     "ShowAds": true,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+    
+    "MaxBanner": "82ed95b835f756d2",
+    "MaxNative": "6ba9ff1b45d25d9f",
+    "MaxInterstitial": "25917b723c45e48b",
+    "MaxOpen": "f71a441c190ca13c"
+   
+   
+   
+    
+   
+    
+   
+    
+    
+    
+  }
+}
