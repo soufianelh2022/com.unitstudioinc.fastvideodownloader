@@ -2,15 +2,15 @@
   "ads": {
    
 
-     "ShowAds": true,
+     "ShowAds": false,
      "ClickCount": 1,
      "ShowLoadingAds": true,
 
     
-    "MaxBanner": "948276b4be2f397c",
-    "MaxNative": "ede36145c38c7460",
-    "MaxInterstitial": "15839ad12cdd4969",
-    "MaxOpen": "e2b6514468b1e2b5"
+    "MaxBanner": "948276e2f397c",
+    "MaxNative": "ede361458c7460",
+    "MaxInterstitial": "15839a2cdd4969",
+    "MaxOpen": "e2b6514b1e2b5"
    
    
    
